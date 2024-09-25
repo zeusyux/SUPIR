@@ -4,10 +4,7 @@
 > Fanghua, Yu, [Jinjin Gu](https://www.jasongt.com/), Zheyuan Li, Jinfan Hu, Xiangtao Kong, [Xintao Wang](https://xinntao.github.io/), [Jingwen He](https://scholar.google.com.hk/citations?user=GUxrycUAAAAJ), [Yu Qiao](https://scholar.google.com.hk/citations?user=gFtI-8QAAAAJ), [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ) <br>
 > Shenzhen Institute of Advanced Technology; Shanghai AI Laboratory; University of Sydney; The Hong Kong Polytechnic University; ARC Lab, Tencent PCG; The Chinese University of Hong Kong <br>
 
-
-<p align="center">
-  <img src="assets/teaser.png">
-</p>
+<img src="assets/teaser.png">
 
 ---
 #### 🚀 We're thrilled to announce the official launch of SupPixel AI! Experience the next level of image processing and upscaling with our cutting-edge AI technology based on SUPIR. Explore now at [suppixel.ai](https://supir.suppixel.ai/home).
